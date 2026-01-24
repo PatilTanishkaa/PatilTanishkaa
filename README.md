@@ -18,9 +18,10 @@
 
 ## 🛠️ Tech Stack
 ### 👩‍💻 Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 
 ### 🌐 Web Development
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
@@ -50,7 +51,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PatilTanishkaa&show_icons=true&theme=tokyonight" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=PatilTanishkaa&show_icons=true&theme=tokyonight" width="100%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatilTanishkaa&layout=compact&theme=tokyonight" width="48%">
 </p>
 
@@ -58,8 +59,14 @@
 
 ## 🌐 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINK" target="_blank">
+  <a href="https://www.linkedin.com/in/tanishkapatillnkdin/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="http
+  <a href="mailto:tanishkapatil26oct@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+
+---
+
+⭐ *Always curious. Always building. Always learning.*
