@@ -52,7 +52,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PatilTanishkaa&show_icons=true&theme=tokyonight" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatilTanishkaa&layout=compact&theme=tokyonight" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatilTanishkaa&layout=compact&theme=tokyonight" width="50%">
 </p>
 
 ---
