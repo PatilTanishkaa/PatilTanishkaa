@@ -8,7 +8,7 @@
 ---
 
 ## 👩‍💻 About Me
-- 🎓 Third-year **Information Technology** student at **ZCOER, Pune**
+- 🎓 Final-year **Information Technology** student at **ZCOER, Pune**
 - 💻 Passionate about **Web Development & Software Engineering**
 - 🏆 **Runner-up – Eureka 2024 (IIT Bombay)**
 - 🌱 Currently learning **Full Stack Development & DSA**
