@@ -1,239 +1,162 @@
-# 👩‍💻 Tanishka Patil
+<!-- ==================== HERO ==================== -->
 
-### IT Undergraduate | Full-Stack Development | AI-Powered Applications
+<div align="center">
 
-I’m an **Information Technology undergraduate at ZCOER, Pune**, focused on building practical software across **full-stack development, backend systems, databases, and applied AI**.
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:06101C,50:10243A,100:4BE6CD&text=TANISHKA%20PATIL&fontColor=FFFFFF&fontSize=48&fontAlignY=42&desc=SOFTWARE%20ENGINEERING%20%7C%20FULL-STACK%20DEVELOPMENT&descSize=13&descAlignY=62&stroke=976EFF&strokeWidth=1" width="100%" alt="Tanishka Patil — Software Engineering and Full-Stack Development" />
 
-I enjoy turning ideas into working applications — from **Java desktop systems and database-driven applications** to **deployed web platforms and AI/NLP projects**.
+<a href="https://github.com/PatilTanishkaa">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=4BE6CD&center=true&vCenter=true&width=650&lines=Building+real-world+software;Turning+ideas+into+working+applications;Learning+by+building+and+shipping;Growing+as+a+Software+Engineer" alt="Developer introduction animation" />
+</a>
 
-* 🎓 BE Information Technology — ZCOER, Pune | SPPU | 2027
-* 📈 CGPA: **8.60/10**
-* 🏆 **1st Runner-up — Eureka 2024, IIT Bombay**
-* 💻 Building with **Java, Python, JavaScript, Node.js, Express.js, SQL & MongoDB**
-* 🤖 Exploring **AI/ML, NLP and intelligent application development**
-* 🚀 Interested in **Software Engineering & Full-Stack Development**
+<a href="https://github.com/PatilTanishkaa">
+  <img src="https://img.shields.io/badge/GitHub-06101C?style=for-the-badge&logo=github&logoColor=4BE6CD" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/tanishkapatillnkdin/">
+  <img src="https://img.shields.io/badge/LinkedIn-06101C?style=for-the-badge&logo=linkedin&logoColor=4BE6CD" alt="LinkedIn" />
+</a>
+<a href="https://tanishka-portfolio-nl4v.onrender.com">
+  <img src="https://img.shields.io/badge/PORTFOLIO-06101C?style=for-the-badge&logo=googlechrome&logoColor=976EFF" alt="Portfolio" />
+</a>
 
----
-
-## 🚀 What I Build
-
-* 🌐 Full-stack web applications
-* ⚙️ REST APIs and backend systems
-* 🗄️ Database-driven applications
-* 🤖 AI/ML and NLP-based applications
-* 🔐 Authentication and user-management systems
-* 📊 Data-driven dashboards and applications
+</div>
 
 ---
 
-## 🛠️ Technical Skills
+## `$ whoami`
 
-### Languages
+I'm **Tanishka Patil**, an Information Technology undergraduate at Zeal College of Engineering & Research, affiliated with Savitribai Phule Pune University, graduating in 2027.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript" />
-</p>
+I'm interested in **software engineering, backend development, full-stack applications, and applied AI**. I enjoy understanding how systems work, building practical solutions, and improving through hands-on development.
 
-**Java • Python • JavaScript • SQL**
+- 🎓 **BE Information Technology — 2027**
+- 📈 **CGPA: 8.60/10**
+- 🥈 **1st Runner-up — Eureka 2024, IIT Bombay**
+- ⚙️ Exploring backend systems, REST APIs, authentication and database design
+- 🤖 Interested in applying AI to meaningful, real-world problems
+- 🎯 Goal: become a strong software engineer who builds reliable, useful products
 
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,angular,react" />
-</p>
-
-**HTML • CSS • JavaScript • Angular • React**
-
-### Backend & APIs
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
-</p>
-
-**Node.js • Express.js • Flask • REST APIs**
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-**MySQL • MongoDB • MongoDB Atlas • Mongoose**
-
-### AI / Data
-
-**NLP • Machine Learning • TF-IDF • Logistic Regression • DistilBERT • SHAP • Streamlit • Power BI**
-
-### Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,render" />
-</p>
-
-**Git • GitHub • VS Code • Render**
+> I don't want to just learn technologies. I want to understand them well enough to build with them.
 
 ---
 
-## ⭐ Featured Projects
+## `$ ls ./featured-projects`
 
-### ⚖️ Nityadhikar — AI-Powered Legal Advisory Platform
+### ⚖️ Nitiyadhikar — AI-Powered Legal Information Platform
 
-An AI-powered platform designed to simplify access to legal information through conversational assistance, verified legal references, rights/procedures and document-oriented guidance.
+An initiative focused on making legal information easier to understand and access, especially for people who face barriers to navigating legal resources.
 
 **My contribution:** Backend authentication, frontend authentication pages and project branding.
 
-**Focus:** AI • Authentication • REST APIs • MongoDB • Web Development
+`Authentication` `REST APIs` `MongoDB` `AI-assisted legal information`
 
----
+[Explore the project](https://github.com/PatilTanishkaa/Nityadhikar)
 
-### 🛡️ FakeShield — Fake News Detection & Analysis
+### 🌐 Personal Portfolio — Full-Stack Web Development
 
-An NLP/ML-based application for detecting and analysing potentially misleading information.
+A deployed portfolio showcasing my work, with a backend API and database-backed contact functionality.
 
-**Technical focus:**
+**Focus:** Frontend development, API integration, database connectivity and deployment.
 
-* TF-IDF + Logistic Regression
-* DistilBERT-based classification
-* SHAP-based explainability
-* Google Fact Check API integration
-* Streamlit interface
-* Plotly / NetworkX visualisations
+`HTML` `CSS` `JavaScript` `Node.js` `Express.js` `MongoDB`
 
-**Focus:** Python • NLP • Machine Learning • Explainable AI
-
----
-
-### 🌐 Personal Portfolio — Deployed Full-Stack Application
-
-A responsive personal portfolio with a frontend, backend API and database-backed contact system.
-
-**Built with:**
-
-* HTML / CSS / JavaScript
-* Node.js / Express.js
-* MongoDB / Mongoose
-* Render
-* Resend email integration
-
-🔗 **Live:** [Portfolio](https://tanishka-portfolio-nl4v.onrender.com)
-
----
-
-### 💳 Zeal IT Fine Management System
-
-A full-stack payment and fine-management platform designed for educational administration.
-
-**Features include:**
-
-* Student management
-* CSV student-data upload
-* Fine/fee recording
-* Receipt generation
-* Email notifications
-* Payment history
-* JWT authentication
-* Dashboard analytics
-* Category management
-
-**Stack:** React • Node.js • Express.js • MongoDB • JWT • Vite
-
----
+[Live portfolio](https://tanishka-portfolio-nl4v.onrender.com) · [Source code](https://github.com/PatilTanishkaa/portfolio-final)
 
 ### 🏦 Swift ATM Simulator System
 
-A Java desktop banking application demonstrating ATM operations and database integration.
+A Java desktop application demonstrating core banking workflows and database integration.
 
-**Features include:**
+**Project focus:** User authentication, PIN management, deposits, withdrawals, balance enquiry and transaction history.
 
-* User registration and authentication
-* ATM card generation
-* PIN management
-* Deposits and withdrawals
-* Balance enquiry
-* Transaction history
-* Mini statements
-* Admin dashboard
-* User and transaction management
+`Java` `Swing` `JDBC` `MySQL`
 
-**Stack:** Java • Swing • JDBC • MySQL
+[Explore the project](https://github.com/PatilTanishkaa/Swift-ATM-Simulator-System)
+
+### 📄 ResumeIQ
+
+A resume-focused project in my development portfolio.
+
+[Explore the repository](https://github.com/PatilTanishkaa/resumeiq)
 
 ---
 
-## 🏆 Achievements
+## `$ tech-stack --current`
 
-* 🥈 **1st Runner-up — Eureka 2024, IIT Bombay**
-  Presented **Nityadhikar**, an AI-based legal advisory concept.
+<div align="center">
 
-* 🏅 **Aavishkar ’26 — PR & Marketing Head**
-  Worked on outreach, college coordination, event promotion and promotional content.
+### Languages
 
-* 👥 **GDG On Campus ZCOER — Social Media & Content Team**
+<img src="https://skillicons.dev/icons?i=java,python,javascript&theme=dark" alt="Java, Python and JavaScript" />
 
-* 💻 **Codies — Winner**
+### Frontend
 
-* 🏆 **Tech Titans — Participant / Contributor**
+<img src="https://skillicons.dev/icons?i=html,css,react,angular&theme=dark" alt="HTML, CSS, React and Angular" />
 
-* 💼 **CodSoft — Java Development Intern**
+### Backend & Databases
 
----
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Node.js, Express, MongoDB and MySQL" />
 
-## 👥 Leadership & Community
+### Tools & Platforms
 
-### Aavishkar ’26 — PR & Marketing Head
+<img src="https://skillicons.dev/icons?i=git,github,vscode,render&theme=dark" alt="Git, GitHub, VS Code and Render" />
 
-Worked with the outreach team to promote the event across colleges, including outreach to **9 Pune colleges** with a 6-member team.
+</div>
 
-### GDG On Campus ZCOER
-
-Contributed to the **Social Media & Content Creation Team**, working on technical-community communication and promotional content.
-
-### ITSA
-
-Served as an elected **Vice President (Female)** for the Information Technology Students' Association.
+**Also exploring:** REST API design, JWT authentication, NLP, machine learning, explainable AI and Power BI.
 
 ---
 
-## 📚 Certifications & Learning
+## `$ git log --highlights`
 
-* **Power BI — Rubicon / Deutsche Bank**
-* **HackerRank Java**
-* **Microsoft + SAP — Industry 4.0**
-* **IBM — Generative AI**
-* **Microsoft LinkedIn — Copilot**
-* **Infosys — Introduction to Data Science**
-* **IIT Bombay — Illuminate Workshop**
+- 🥈 **Eureka 2024 — IIT Bombay:** 1st Runner-up for the Nitiyadhikar legal advisory concept.
+- 📣 **Aavishkar '26:** PR & Marketing Head; coordinated outreach with a six-member team across nine Pune colleges.
+- 💻 **Codies:** Winner.
+- 🌐 **GDG On Campus ZCOER:** Social Media & Content Team.
+- 🤝 **Community engagement:** Participated in student initiatives, technical events and college outreach.
 
 ---
 
-## 🎯 Current Focus
+## `$ currently_working_on`
 
-Currently strengthening my foundations in:
-
-* Data Structures & Algorithms
-* JavaScript and modern web development
-* Backend development
-* SQL & database design
-* Software engineering fundamentals
-* Building and deploying production-style applications
+- Strengthening Data Structures and Algorithms.
+- Improving backend development and API design.
+- Building reliable, database-driven applications.
+- Learning software engineering fundamentals through projects.
+- Writing cleaner code and maintaining better Git workflows.
 
 ---
 
-## 📊 GitHub Activity
+## `$ github --stats`
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=PatilTanishkaa&show_icons=true&hide_border=true" />
-</p>
+<div align="center">
 
----
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PatilTanishkaa&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&title_color=4BE6CD&icon_color=976EFF&text_color=C9D1D9&ring_color=4BE6CD" alt="GitHub profile statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatilTanishkaa&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=4BE6CD&text_color=C9D1D9" alt="Most-used programming languages" />
 
-## 🤝 Let's Connect
+<br/>
 
-<p>
-  <a href="https://www.linkedin.com/in/tanishkapatillnkdin/">LinkedIn</a> •
-  <a href="https://github.com/PatilTanishkaa">GitHub</a> •
-  <a href="mailto:tanishkapatil26oct@gmail.com">Email</a>
-</p>
+<img width="75%" src="https://streak-stats.demolab.com?user=PatilTanishkaa&theme=transparent&hide_border=true&ring=4BE6CD&fire=976EFF&currStreakLabel=4BE6CD&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8A97A1" alt="GitHub contribution streak" />
+
+</div>
 
 ---
 
-### 💡 Build. Learn. Ship. Improve.
+## `$ connect --with-me`
+
+<div align="center">
+
+**Have an interesting project, an opportunity to collaborate, or a problem worth solving? Let's connect.**
+
+<a href="https://www.linkedin.com/in/tanishkapatillnkdin/">
+  <img src="https://img.shields.io/badge/LET'S_CONNECT-4BE6CD?style=for-the-badge&logo=linkedin&logoColor=06101C" alt="Connect on LinkedIn" />
+</a>
+<a href="https://github.com/PatilTanishkaa">
+  <img src="https://img.shields.io/badge/EXPLORE_MY_WORK-976EFF?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Explore my GitHub" />
+</a>
+
+<br/><br/>
+
+*Build with purpose. Learn with curiosity. Improve with consistency.*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=footer&color=0:976EFF,50:4BE6CD,100:06101C" width="100%" alt="" />
+
+</div>
