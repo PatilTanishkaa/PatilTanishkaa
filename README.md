@@ -16,8 +16,8 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=PatilTanishkaa&label=PROFILE%20VIEWS&color=4BE6CD&style=for-the-badge" alt="Profile views" />
-![](https://komarev.com/ghpvc/?username=PatilTanishkaa&color=green)
+<img src="https://komarev.com/ghpvc/?username=PatilTanishkaa&color=green" alt="Profile views" />
+
 </div>
 
 ---
