@@ -16,8 +16,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=PatilTanishkaa&color=green" alt="Profile views" />
-<img src="(https://komarev.com/ghpvc/?username=PatilTanishkaa&color=green)"/>
+<img src="https://komarev.com/ghpvc/?username=PatilTanishkaa&color=4BE6CD&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
