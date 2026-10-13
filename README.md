@@ -44,7 +44,7 @@ I'm interested in **software engineering, backend development, full-stack applic
 ### ⚖️ Nitiyadhikar — AI-Powered Legal Information Platform
 
 An initiative focused on making legal information easier to understand and access, especially for people who face barriers to navigating legal resources.
-
+(building)
 **My contribution:** Backend authentication, frontend authentication pages and project branding.
 
 `Authentication` `REST APIs` `MongoDB` `AI-assisted legal information`
@@ -73,7 +73,7 @@ A Java desktop application demonstrating core banking workflows and database int
 
 ### 📄 ResumeIQ
 
-A resume-focused project in my development portfolio.
+A resume-focused project in my development portfolio.(building)
 
 [Explore the repository](https://github.com/PatilTanishkaa/resumeiq)
 
@@ -109,7 +109,7 @@ A resume-focused project in my development portfolio.
 
 - 🥈 **Eureka 2024 — IIT Bombay:** 1st Runner-up for the Nitiyadhikar legal advisory concept.
 - 📣 **Aavishkar '26:** PR & Marketing Head; coordinated outreach with a six-member team across nine Pune colleges.
-- 💻 **Codies:** Winner.
+- 💻 **Codies:** Logo Designing Winner.
 - 🌐 **GDG On Campus ZCOER:** Social Media & Content Team.
 - 🤝 **Community engagement:** Participated in student initiatives, technical events and college outreach.
 
@@ -132,9 +132,12 @@ A resume-focused project in my development portfolio.
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PatilTanishkaa&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&title_color=4BE6CD&icon_color=976EFF&text_color=C9D1D9&ring_color=4BE6CD" alt="GitHub profile statistics" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatilTanishkaa&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=4BE6CD&text_color=C9D1D9" alt="Most-used programming languages" />
 
+
 <br/>
 
 <img width="75%" src="https://streak-stats.demolab.com?user=PatilTanishkaa&theme=transparent&hide_border=true&ring=4BE6CD&fire=976EFF&currStreakLabel=4BE6CD&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8A97A1" alt="GitHub contribution streak" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=footer&color=0:976EFF,50:4BE6CD,100:06101C" width="100%" alt="" />
 
 </div>
 
