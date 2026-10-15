@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=PatilTanishkaa&color=4BE6CD&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
+
 
 </div>
 
@@ -163,7 +163,7 @@ A resume-focused project in my development portfolio.
 
 <a href="https://www.linkedin.com/in/tanishkapatillnkdin/"><img src="https://img.shields.io/badge/LET'S_CONNECT-4BE6CD?style=for-the-badge&logo=linkedin&logoColor=06101C" alt="Connect on LinkedIn" /></a>
 <a href="https://github.com/PatilTanishkaa"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-976EFF?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Explore my GitHub" /></a>
-
+<img src="https://komarev.com/ghpvc/?username=PatilTanishkaa&color=4BE6CD&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
 <br/><br/>
 
 *Build with purpose. Learn with curiosity. Improve with consistency.*
